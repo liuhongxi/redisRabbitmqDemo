@@ -1,0 +1,154 @@
+2018-10-17 17:30:23,794 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 8444 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 17:30:23,798 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 17:30:23,801 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 17:30:27,863 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.498 seconds (JVM running for 5.097)
+2018-10-17 17:39:29,423 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 4928 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 17:39:29,428 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 17:39:29,430 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 17:39:34,050 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.953 seconds (JVM running for 5.951)
+2018-10-17 17:40:04,740 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 7908 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 17:40:04,742 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 17:40:04,743 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 17:40:08,436 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.034 seconds (JVM running for 4.598)
+2018-10-17 17:41:00,001 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:00 CST 2018
+2018-10-17 17:41:05,002 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:05 CST 2018
+2018-10-17 17:41:10,001 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:10 CST 2018
+2018-10-17 17:41:15,001 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:15 CST 2018
+2018-10-17 17:41:20,001 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:20 CST 2018
+2018-10-17 17:41:25,002 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:25 CST 2018
+2018-10-17 17:41:30,001 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:30 CST 2018
+2018-10-17 17:41:35,001 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:35 CST 2018
+2018-10-17 17:41:40,001 INFO (TestTask.java:75)- 222Wed Oct 17 17:41:40 CST 2018
+2018-10-17 17:43:59,626 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 7376 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 17:43:59,628 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 17:43:59,631 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 17:44:03,255 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.944 seconds (JVM running for 4.518)
+2018-10-17 17:44:25,000 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:44:25 CST 2018
+2018-10-17 17:44:30,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:44:30 CST 2018
+2018-10-17 17:44:35,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:44:35 CST 2018
+2018-10-17 17:44:40,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:44:40 CST 2018
+2018-10-17 17:44:45,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:44:45 CST 2018
+2018-10-17 17:44:50,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:44:50 CST 2018
+2018-10-17 17:44:55,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:44:55 CST 2018
+2018-10-17 17:45:00,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:00 CST 2018
+2018-10-17 17:45:05,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:05 CST 2018
+2018-10-17 17:45:10,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:10 CST 2018
+2018-10-17 17:45:15,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:15 CST 2018
+2018-10-17 17:45:20,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:20 CST 2018
+2018-10-17 17:45:25,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:25 CST 2018
+2018-10-17 17:45:30,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:30 CST 2018
+2018-10-17 17:45:35,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:35 CST 2018
+2018-10-17 17:45:40,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:40 CST 2018
+2018-10-17 17:45:45,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:45 CST 2018
+2018-10-17 17:45:50,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:50 CST 2018
+2018-10-17 17:45:55,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:45:55 CST 2018
+2018-10-17 17:46:00,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:00 CST 2018
+2018-10-17 17:46:05,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:05 CST 2018
+2018-10-17 17:46:10,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:10 CST 2018
+2018-10-17 17:46:15,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:15 CST 2018
+2018-10-17 17:46:20,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:20 CST 2018
+2018-10-17 17:46:25,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:25 CST 2018
+2018-10-17 17:46:30,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:30 CST 2018
+2018-10-17 17:46:35,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:35 CST 2018
+2018-10-17 17:46:40,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:40 CST 2018
+2018-10-17 17:46:45,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:45 CST 2018
+2018-10-17 17:46:50,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:50 CST 2018
+2018-10-17 17:46:55,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:46:55 CST 2018
+2018-10-17 17:47:00,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:00 CST 2018
+2018-10-17 17:47:05,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:05 CST 2018
+2018-10-17 17:47:10,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:10 CST 2018
+2018-10-17 17:47:15,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:15 CST 2018
+2018-10-17 17:47:20,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:20 CST 2018
+2018-10-17 17:47:25,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:25 CST 2018
+2018-10-17 17:47:30,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:30 CST 2018
+2018-10-17 17:47:35,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:35 CST 2018
+2018-10-17 17:47:40,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:40 CST 2018
+2018-10-17 17:47:45,000 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:45 CST 2018
+2018-10-17 17:47:50,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:50 CST 2018
+2018-10-17 17:47:55,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:47:55 CST 2018
+2018-10-17 17:48:00,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:48:00 CST 2018
+2018-10-17 17:48:05,002 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:48:05 CST 2018
+2018-10-17 17:48:10,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:48:10 CST 2018
+2018-10-17 17:48:15,001 INFO (TestTask.java:76)- 222:  Wed Oct 17 17:48:15 CST 2018
+2018-10-17 18:55:41,660 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 9236 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 18:55:41,663 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 18:55:41,664 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 18:55:45,381 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.194 seconds (JVM running for 4.796)
+2018-10-17 18:59:52,944 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 9820 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 18:59:52,947 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 18:59:52,949 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:00:26,946 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 2660 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:00:26,949 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:00:26,950 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:00:30,705 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.067 seconds (JVM running for 4.615)
+2018-10-17 19:00:40,001 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:00:40 CST 2018
+2018-10-17 19:00:45,001 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:00:45 CST 2018
+2018-10-17 19:00:50,001 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:00:50 CST 2018
+2018-10-17 19:00:55,002 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:00:55 CST 2018
+2018-10-17 19:01:20,281 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 10076 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:01:20,283 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:01:20,286 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:01:23,946 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.055 seconds (JVM running for 4.627)
+2018-10-17 19:03:17,552 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 9400 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:03:17,555 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:03:17,557 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:03:21,199 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.936 seconds (JVM running for 4.505)
+2018-10-17 19:04:41,293 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 9648 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:04:41,296 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:04:41,298 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:04:44,937 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.976 seconds (JVM running for 4.563)
+2018-10-17 19:17:12,287 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 6788 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:17:12,291 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:17:12,294 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:17:15,843 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.86 seconds (JVM running for 4.412)
+2018-10-17 19:18:14,108 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 9300 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:18:14,111 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:18:14,114 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:18:17,649 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.837 seconds (JVM running for 4.388)
+2018-10-17 19:18:57,455 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 9948 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:18:57,457 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:18:57,459 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:19:01,214 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.078 seconds (JVM running for 4.634)
+2018-10-17 19:19:50,668 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 5716 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:19:50,670 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:19:50,674 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:19:54,394 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 4.039 seconds (JVM running for 4.587)
+2018-10-17 19:20:00,002 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:20:00 CST 2018
+2018-10-17 19:20:05,001 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:20:05 CST 2018
+2018-10-17 19:20:10,002 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:20:10 CST 2018
+2018-10-17 19:20:49,570 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 5144 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:20:49,573 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:20:49,574 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:20:53,082 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.826 seconds (JVM running for 4.39)
+2018-10-17 19:33:07,482 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 9452 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-10-17 19:33:07,484 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-17 19:33:07,486 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-10-17 19:33:11,121 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.951 seconds (JVM running for 4.507)
+2018-10-17 19:36:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:36:00 CST 2018
+2018-10-17 19:39:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:39:00 CST 2018
+2018-10-17 19:42:00,005 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:42:00 CST 2018
+2018-10-17 19:45:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:45:00 CST 2018
+2018-10-17 19:48:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:48:00 CST 2018
+2018-10-17 19:51:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:51:00 CST 2018
+2018-10-17 19:54:00,005 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:54:00 CST 2018
+2018-10-17 19:57:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 19:57:00 CST 2018
+2018-10-17 20:00:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:00:00 CST 2018
+2018-10-17 20:03:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:03:00 CST 2018
+2018-10-17 20:06:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:06:00 CST 2018
+2018-10-17 20:09:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:09:00 CST 2018
+2018-10-17 20:12:00,005 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:12:00 CST 2018
+2018-10-17 20:15:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:15:00 CST 2018
+2018-10-17 20:18:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:18:00 CST 2018
+2018-10-17 20:21:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:21:00 CST 2018
+2018-10-17 20:24:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:24:00 CST 2018
+2018-10-17 20:27:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:27:00 CST 2018
+2018-10-17 20:30:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:30:00 CST 2018
+2018-10-17 20:33:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:33:00 CST 2018
+2018-10-17 20:36:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:36:00 CST 2018
+2018-10-17 20:39:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:39:00 CST 2018
+2018-10-17 20:42:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:42:00 CST 2018
+2018-10-17 20:45:00,005 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:45:00 CST 2018
+2018-10-17 20:48:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:48:00 CST 2018
+2018-10-17 20:51:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:51:00 CST 2018
+2018-10-17 20:54:00,004 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:54:00 CST 2018
+2018-10-17 20:57:00,003 INFO (TestTask.java:86)- 222:  Wed Oct 17 20:57:00 CST 2018

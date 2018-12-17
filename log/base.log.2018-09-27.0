@@ -1,0 +1,234 @@
+2018-09-27 10:49:01,746 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 6680 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-09-27 10:49:01,755 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-09-27 10:49:01,784 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-09-27 10:49:11,445 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 10.199 seconds (JVM running for 11.07)
+2018-09-27 10:53:45,410 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 6204 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-09-27 10:53:45,413 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-09-27 10:53:45,418 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-09-27 10:53:49,122 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.986 seconds (JVM running for 4.545)
+2018-09-27 10:53:54,384 INFO (UserServiceImpl.java:42)- findById从redis缓存中获取了 刘宏席 的用户信息
+2018-09-27 11:32:01,525 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 11:32:01,545 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 11:32:01,580 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 11:32:05,563 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 11:32:05,565 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 11:32:05,570 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 11:32:28,281 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 11:32:28,282 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 11:32:28,285 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 11:47:14,117 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 11:47:14,118 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 11:47:14,124 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 13:56:25,440 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 13:56:25,453 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 13:56:25,461 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:02:25,372 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:02:25,373 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:02:25,375 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:02:46,588 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:02:46,589 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:02:46,591 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:10:15,457 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:10:15,458 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:10:15,461 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:20:08,077 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:20:08,078 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:20:08,081 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:20:09,928 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:20:09,929 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:20:09,931 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:20:12,043 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:20:12,043 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:20:12,045 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:41:11,233 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:41:11,234 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:41:11,237 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:41:45,323 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:41:45,324 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:41:45,326 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:42:10,472 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:42:10,473 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:42:10,475 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:42:16,901 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:42:16,901 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:42:16,907 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:45:54,522 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:45:54,523 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:45:54,526 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:47:03,769 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:47:03,770 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:47:03,772 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 14:47:36,561 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 14:47:36,561 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 14:47:36,562 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:09:49,633 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:09:49,634 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:09:49,637 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:09:49,639 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:09:49,642 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:09:49,644 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:09:57,809 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:09:57,809 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:09:57,811 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:09:57,813 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:09:57,814 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:09:57,816 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:10:07,597 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:10:07,598 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:10:07,599 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:12:55,505 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:12:55,506 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:12:55,507 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:12:55,509 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:12:55,510 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:12:55,521 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:13:11,841 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:13:11,842 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:13:11,843 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:25:32,520 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:25:32,521 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:25:32,523 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:25:32,523 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:25:32,523 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:25:32,524 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:27:33,905 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:27:33,910 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:27:33,916 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:27:33,926 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:27:33,926 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:27:33,929 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:27:40,800 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:27:40,800 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:27:40,802 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:27:40,803 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:27:40,804 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:27:40,805 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:28:05,591 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:28:05,592 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:28:05,594 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:28:05,821 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:28:05,821 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:28:05,824 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:28:20,848 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:28:20,848 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:28:20,850 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:29:07,461 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:29:07,462 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:29:07,464 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:29:19,193 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:29:19,194 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:29:19,195 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:36:57,279 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:36:57,280 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:36:57,285 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:36:57,289 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:36:57,290 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:36:57,293 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:37:56,246 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:37:56,247 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:37:56,251 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:37:56,259 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:37:56,260 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:37:56,261 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:39:38,661 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:39:38,662 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:39:38,663 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:39:38,667 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:39:38,668 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:39:38,670 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:39:48,121 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:39:48,122 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:39:48,120 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:39:48,124 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:39:48,127 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:39:48,131 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:39:55,426 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:39:55,426 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:39:55,427 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:40:53,630 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:40:53,631 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:40:53,634 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:43:55,393 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:43:55,400 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:43:55,406 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:43:55,406 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:43:55,407 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:43:55,412 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:44:00,918 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:44:00,920 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:44:00,926 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:44:19,353 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:44:19,354 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:44:19,359 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:44:19,361 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:44:19,362 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:44:19,364 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:45:07,061 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:45:07,062 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:45:07,065 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:45:07,065 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:45:07,066 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:45:07,067 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:45:09,486 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:45:09,487 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:45:09,488 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:47:37,950 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:47:37,951 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:47:37,953 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 15:47:45,255 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 15:47:45,256 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 15:47:45,257 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:03:41,535 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:03:41,536 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:03:41,538 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:03:56,477 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:03:56,479 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:03:56,482 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:03:56,488 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:03:56,488 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:03:56,490 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:05:46,054 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:05:46,055 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:05:46,057 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:05:46,061 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:05:46,061 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:05:46,063 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:06:18,111 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:06:18,112 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:06:18,114 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:06:18,114 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:06:18,116 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:06:18,124 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:06:27,724 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:06:27,724 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:06:27,727 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:06:27,730 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:06:27,730 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:06:27,732 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:07:00,367 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:07:00,368 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:07:00,369 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:08:03,977 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:08:03,978 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:08:03,981 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:08:03,986 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:08:03,987 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:08:03,988 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:08:09,500 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:08:09,500 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:08:09,501 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:08:11,261 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:08:11,261 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:08:11,262 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:08:43,420 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:08:43,421 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:08:43,424 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:08:43,450 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:08:43,451 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:08:43,452 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:09:15,679 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:09:15,679 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:09:15,680 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8
+2018-09-27 16:09:17,500 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select * from user where 0 = 0 
+2018-09-27 16:09:17,501 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2018-09-27 16:09:17,502 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 8

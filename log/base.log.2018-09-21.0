@@ -1,0 +1,27 @@
+2018-09-21 17:34:11,055 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 6088 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-09-21 17:34:11,058 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-09-21 17:34:11,061 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-09-21 17:34:56,467 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 7432 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-09-21 17:34:56,469 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-09-21 17:34:56,472 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-09-21 17:34:59,948 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.768 seconds (JVM running for 4.24)
+2018-09-21 17:39:41,705 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 4656 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-09-21 17:39:41,707 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-09-21 17:39:41,710 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-09-21 17:39:45,024 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 3.616 seconds (JVM running for 4.09)
+2018-09-21 17:43:19,420 INFO (HelloSender.java:20)- 开始发送用户信息：hellomq
+2018-09-21 17:43:19,449 DEBUG (HelloReceiver.java:18)- HelloReceiver : hellomq
+2018-09-21 17:46:12,865 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 4656 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-09-21 17:46:12,865 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-09-21 17:46:12,865 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-09-21 17:46:13,688 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 0.851 seconds (JVM running for 392.749)
+2018-09-21 17:49:17,435 INFO (HelloSender.java:20)- 开始发送用户信息：hellomq
+2018-09-21 17:49:17,530 DEBUG (HelloReceiver.java:18)- HelloReceiver : hellomq
+2018-09-21 17:49:35,524 INFO (HelloSender.java:20)- 开始发送用户信息：刘宏席
+2018-09-21 17:49:35,532 DEBUG (HelloReceiver.java:18)- HelloReceiver : 刘宏席
+2018-09-21 17:55:52,181 INFO (HelloSender.java:20)- 开始发送用户信息：admin
+2018-09-21 17:55:52,183 DEBUG (HelloReceiver.java:18)- HelloReceiver : admin
+2018-09-21 17:56:27,479 INFO (StartupInfoLogger.java:50)- Starting SpringbootRedisMybatisApplication on TKVGQDQAQK4H2GA with PID 4656 (D:\java\data\springboot_Redis_mybatis\target\classes started by Administrator in D:\java\data\springboot_Redis_mybatis)
+2018-09-21 17:56:27,479 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-09-21 17:56:27,479 INFO (SpringApplication.java:680)- No active profile set, falling back to default profiles: default
+2018-09-21 17:56:28,185 INFO (StartupInfoLogger.java:59)- Started SpringbootRedisMybatisApplication in 0.729 seconds (JVM running for 1007.238)
